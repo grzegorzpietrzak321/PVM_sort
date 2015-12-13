@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "pvm_sort", "pvm_sort", "{4327080D-7973-4A1D-BB86-86B2B54AB4EA}"
+	ProjectSection(SolutionItems) = preProject
+		F:\Dokumenty\WSIZ\SEM5\Obliczenia rozproszone L Puzio\Kody\pvm3\src\sort_def.h = F:\Dokumenty\WSIZ\SEM5\Obliczenia rozproszone L Puzio\Kody\pvm3\src\sort_def.h
+		F:\Dokumenty\WSIZ\SEM5\Obliczenia rozproszone L Puzio\Kody\pvm3\src\sort_master.c = F:\Dokumenty\WSIZ\SEM5\Obliczenia rozproszone L Puzio\Kody\pvm3\src\sort_master.c
+		F:\Dokumenty\WSIZ\SEM5\Obliczenia rozproszone L Puzio\Kody\pvm3\src\sort_slave.c = F:\Dokumenty\WSIZ\SEM5\Obliczenia rozproszone L Puzio\Kody\pvm3\src\sort_slave.c
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
